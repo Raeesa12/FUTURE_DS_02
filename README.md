@@ -11,17 +11,17 @@ This project is part of my **Data Science & Analytics Internship** at **Future I
 * **Bundling Works:** Customers subscribed to multiple add-on services (Tech Support, Online Security) churn at significantly lower rates, confirming that bundling raises switching costs.
 * **Revenue at Risk:** The business faces ~$139,131 in monthly revenue leakage and over $2.86 million in cumulative lifetime value lost to churn.
 
-## Tools Used
-* **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scipy)
-* **Jupyter Notebook** for end-to-end analysis
-* **Power BI** for dashboard
-
 ## Recommendations
 * **Incentivise annual contracts** for month-to-month subscribers through discounts or service upgrades to lock in retention early.
 * **Implement a 90-day onboarding programme** with structured check-ins to reduce first-year churn during the critical vulnerability window.
 * **Bundle Tech Support and Online Security** into at-risk plans via free trials to increase switching costs and perceived value.
 * **Audit Fiber Optic pricing** and consider price-lock guarantees to address the gap between premium pricing and customer satisfaction.
 * **Deploy a predictive churn flag** in the CRM targeting customers who match the high-risk profile: month-to-month + Fiber Optic + no add-ons + tenure ≤12 months.
+
+## Tools Used
+* **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scipy)
+* **Jupyter Notebook** for end-to-end analysis
+* **Power BI** for dashboard
 
 ## Deliverables
 * Cleaned and standardized dataset (`data_cleaned.csv`).
