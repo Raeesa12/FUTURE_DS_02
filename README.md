@@ -29,4 +29,4 @@ This project is part of my **Data Science & Analytics Internship** at **Future I
 * Actionable business recommendations targeting high-risk customer segments.
 
 ## PowerBI Dashboard
-Link to visualisations, insights and recommendations dashboard/report: *[Insert Power BI link here]*
+Link to visualisations, insights and recommendations dashboard/report: https://app.powerbi.com/view?r=eyJrIjoiYTJlM2JkZmEtNzFkNS00NTUwLWE3Y2EtZTAyN2IwOGU1ZTk2IiwidCI6IjRiMWI5MDhjLTU1ODItNDM3Ny1iYTA3LWEzNmQ2NWUzNDkzNCIsImMiOjh9
